@@ -2,4 +2,6 @@
 run/
 target/
 test_proxy/
+.direnv/
 generators
+result-bin
